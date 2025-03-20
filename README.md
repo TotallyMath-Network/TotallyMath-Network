@@ -7,7 +7,7 @@ This GitHub repository contains the **JavaScript (JS) tag** that lets you easily
 But if you don't want to mess with code, you can always visit our website directly at [TotallyMath Network](https://totally-math.netlify.app).
 
 <p align="center">
-  <img src="./resources/gif-spin.gif" width="600" style="margin: 5px;">
+  <img src="./resources/gif-spin.gif" width="300" style="margin: 5px;">
 </p>
 
 ---
