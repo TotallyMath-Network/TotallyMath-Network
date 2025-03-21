@@ -1,6 +1,6 @@
 # ☄️🎮 **Upcoming Unblocked Games Network!**
 
-Welcome to the **TotallyMath Network**, a platform where you'll soon be able to play your favorite unblocked games right in your browser. Currently, we have **5 exciting games** available, and more are coming soon!
+Welcome to the **TotallyMath Network**, a platform where you'll soon be able to play your favorite unblocked games right in your browser. Currently, we have **9 exciting games** available, and more are coming soon!
 
 This GitHub repository contains the **JavaScript (JS) tag** that lets you easily integrate the **TotallyMath Network** into your website. Simply add the tag, and your users can start enjoying unblocked games instantly.
 
