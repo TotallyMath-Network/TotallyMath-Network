@@ -14,7 +14,7 @@ But if you don't want to mess with code, you can always visit our website direct
 
 ## 🎮 **Available Games**
 
-Currently, the TotallyMath Network offers **8 fun unblocked games**:
+Currently, the TotallyMath Network offers **9 fun unblocked games**:
 - **OvO with Mods**
 - **OVO 2**
 - **Slope**
@@ -24,6 +24,7 @@ Currently, the TotallyMath Network offers **8 fun unblocked games**:
 - **Eggy Car**
 - **Basketball Stars**
 - **Minecraft**
+- **Paper.io 2**
 
 These games are perfect for playing anywhere, anytime!
 
